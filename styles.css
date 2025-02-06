@@ -1,4 +1,4 @@
-/* Общие стили */
+/* Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -79,7 +79,7 @@ nav ul li a {
     cursor: pointer;
 }
 
-/* Раздел с особенностями */
+/* Features */
 .features {
     padding: 50px 0;
     text-align: center;
